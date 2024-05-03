@@ -19,7 +19,7 @@ namespace 随机抽号
             InitializeComponent();
             label1.Text = "";
             label3.Text = "";
-//            richTextBox1.Text = "50";
+            richTextBox1.Text = "52";
         }
 
         public void Rnd() {
@@ -62,6 +62,11 @@ namespace 随机抽号
                 label3.Text += ",";
                 button1.Text = "开始";
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label3.Text = "";
         }
     }
 }

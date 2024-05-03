@@ -1,5 +1,2 @@
-# 随机抽号器
-
-基于NetFramework4.8，全部推倒重来了
-
-支持显示历史记录
+"# Random-number-extracter" 
+"# Random-number-extractor" 
